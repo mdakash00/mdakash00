@@ -1,7 +1,6 @@
-
-![Software Engineer](https://scontent-sin2-1.xx.fbcdn.net/v/t39.30808-6/461259603_3852826645044834_3429177463418890234_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGfvXNyXeFCa9l-YJ1cFF56Y5WvRyIB7E9jla9HIgHsT2v_gfj98Hee6U6MpvsN3EZgJgxSI1tVSYjpPxSadHR1&_nc_ohc=ObKSHpAcI_0Q7kNvgEvwC5S&_nc_zt=23&_nc_ht=scontent-sin2-1.xx&_nc_gid=AyXmf83xcnOt0Wq7wrICCMo&oh=00_AYBhrr9dzLxr4HPjJ0HgsJZqteJumiUOdicZsab0CankGg&oe=6766343D)
 ### Hi there 👋, I am Akash
 #### Software Engineer
+![Software Engineer](https://scontent-sin6-4.xx.fbcdn.net/v/t1.6435-9/169409591_2911708179156690_4672830075742124328_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeF0xrffNB-fi0cPVYgG6JcFS5T56DIFX8dLlPnoMgVfx2dbL7Wls-2tDhi5ifebLxSf9KpV_T48xpfgv_JYZBgd&_nc_ohc=N_1DAPRdkB8Q7kNvgG2PQfi&_nc_zt=23&_nc_ht=scontent-sin6-4.xx&_nc_gid=AddrJQFbYVUB8ho1ZpJ3xuo&oh=00_AYDNo_aD9Kcj-addrtg1KvQns_79YMxb6AoW9xkMffnxVg&oe=6787D1DB)
 
 I am a dedicated software engineer with expertise in C, C++, Python, Java, and HTML. I have a strong passion for technology and innovation.
 
